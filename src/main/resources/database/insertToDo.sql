@@ -1,0 +1,1 @@
+INSERT INTO to_do (description, status) VALUES ('Купить ноутбук', false);
